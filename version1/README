@@ -1,0 +1,20 @@
+# Python Script For Packet Sniffing (pypacket)
+							
+######################################################
+
+	Aatish Ranjan
+	Note: We Feel Proud To Be Indian
+######################################################
+
+# Features
+	No External Dependencies
+	Using Custom Python Script For Extracting Header
+	Supported Header: TCP/IP, IPv4 ,UDP, ICMP
+	Fast Header Extraction
+
+Usage:
+	python pypacket.py (run as administrative privilage)
+
+Written By 
+	Aatish Ranjan
+	surajsinghbisht054@gmail.com 
